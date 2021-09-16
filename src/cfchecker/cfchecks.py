@@ -67,11 +67,11 @@ from cfchecker import __version__
 
 # point to local cache of URL
 # http://cfconventions.org/Data/cf-standard-names/current/src/cf-standard-name-table.xml
-STANDARDNAME = '/home/h03/support/software/cfchecker_rhel7/etc/cf-standard-name-table.xml'
+STANDARDNAME = '/home/h03/cdds/software/cfchecker_rhel7/etc/cf-standard-name-table.xml'
 
 # point to local cache of URL
 # http://cfconventions.org/Data/area-type-table/current/src/area-type-table.xml'
-AREATYPES = '/home/h03/support/software/cfchecker_rhel7/etc/area-type-table.xml'
+AREATYPES = '/home/h03/cdds/software/cfchecker_rhel7/etc/area-type-table.xml'
 REGIONNAMES = 'http://cfconventions.org/Data/cf-standard-names/docs/standardized-region-names.xml'
 
 #-----------------------------------------------------------
